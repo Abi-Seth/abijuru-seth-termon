@@ -1,0 +1,35 @@
+{
+  "name": "calculating_gun",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vite test",
+    "eject": "vite eject",
+    "cypress": "cypress open"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "copy-to-clipboard": "^3.3.1",
+    "daisyui": "^1.25.4",
+    "randomatic": "^3.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.2.1",
+    "react-toastify": "^8.1.1",
+    "workbox-recipes": "^6.2.4",
+    "workbox-routing": "^6.2.4",
+    "workbox-strategies": "^6.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.2",
+    "cypress": "^12.1.0",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18",
+    "vite": "^2.7.2",
+    "vite-plugin-pwa": "^0.11.2"
+  }
+}
